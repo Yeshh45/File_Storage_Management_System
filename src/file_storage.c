@@ -75,7 +75,7 @@ void delete_file(const char* file_name) {
 int main() {
     // Sample usage
     create_file("Yeshwanth.txt", "This is my file.");
-    read_file("Yeshwanrh.txt");
+    read_file("Yeshwanth.txt");
     delete_file("Yeshwanth.txt");
 
     return 0;
